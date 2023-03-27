@@ -7,6 +7,7 @@ This is a simple webserver + example Telegram bot that allows you to get the HLS
 1. Install the requirements with `pip install -r requirements.txt` 
 2. Run the server with `python server.py`
 3. Review the settings in bot.py (audio quality, video quality and server url)
+4. Run the bot with `python bot.py`
 
 The Telegram bot depends on [py-tgcalls](https://github.com/pytgcalls/pytgcalls) which depends on [NodeJS](https://nodejs.org/) and [FFmpeg](https://ffmpeg.org/) so you need to install both of them for the bot to work, not needed for the server.
 
