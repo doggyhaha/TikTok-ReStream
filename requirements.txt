@@ -1,0 +1,4 @@
+py-tgcalls
+pyrogram
+requests
+aiohttp
